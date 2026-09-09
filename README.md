@@ -48,6 +48,13 @@ A Postauto account. Sign up at [postauto.io](https://postauto.io).
 - Documentation: https://postauto.io/mcp
 - The MCP endpoint: `https://api.postauto.io/api/mcp`
 
+## This repository is generated
+
+Postauto's source lives in a private repository. This one is built from it and
+overwritten on every change, so an edit made here is lost without a word. If
+something in it is wrong, say so at [postauto.io](https://postauto.io) and it
+gets fixed at the source.
+
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
