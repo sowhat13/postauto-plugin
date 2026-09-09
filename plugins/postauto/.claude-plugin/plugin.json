@@ -1,0 +1,11 @@
+{
+  "name": "postauto",
+  "displayName": "Postauto",
+  "version": "2.0.0",
+  "description": "Draft, schedule and publish social posts from Claude Code: 31 typed tools, resources and prompts over Postauto's MCP server, signed in with OAuth.",
+  "author": { "name": "Postauto", "url": "https://postauto.io" },
+  "homepage": "https://postauto.io/mcp",
+  "repository": "https://github.com/sowhat13/postauto-plugin",
+  "license": "MIT",
+  "keywords": ["social", "publishing", "scheduling", "mcp", "marketing"]
+}

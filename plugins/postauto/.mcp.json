@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postauto": {
+      "type": "http",
+      "url": "https://api.postauto.io/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "postauto",
+  "description": "Postauto's own plugins: social publishing for founders, operators and their agents.",
+  "owner": { "name": "Postauto", "url": "https://postauto.io" },
+  "plugins": [
+    {
+      "name": "postauto",
+      "source": "./plugins/postauto",
+      "description": "Draft, schedule and publish social posts from Claude Code, signed in with OAuth.",
+      "version": "2.0.0",
+      "category": "productivity"
+    }
+  ]
+}
